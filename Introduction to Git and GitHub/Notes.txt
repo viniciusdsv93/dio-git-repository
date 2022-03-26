@@ -8,4 +8,4 @@ git add
 
 git commit
 
-git push origin remote
+git push origin main
