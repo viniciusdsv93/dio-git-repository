@@ -1,0 +1,11 @@
+Git commands:
+
+git clone
+
+git init
+
+git add
+
+git commit
+
+git push origin remote
